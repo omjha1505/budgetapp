@@ -1,4 +1,4 @@
-//Budget Controller
+//Main Budget Controller
 var budgetController = (function(){
 
     var Expenses = function(id , desciption , value){
